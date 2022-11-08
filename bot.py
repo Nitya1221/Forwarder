@@ -1,4 +1,4 @@
-#    Copyright (c) 2021 Ayush
+#    Copyright (c) 2022
 #    
 #    This program is free software: you can redistribute it and/or modify  
 #    it under the terms of the GNU General Public License as published by  
@@ -9,7 +9,7 @@
 #    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU 
 #    General Public License for more details.
 # 
-#    License can be found in < https://github.com/Ayush7445/telegram-auto_forwarder/blob/main/License > .
+#    License
 
 from telethon import TelegramClient, events
 from decouple import config
